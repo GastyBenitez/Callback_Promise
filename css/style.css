@@ -1,0 +1,9 @@
+.aplicado{
+    color: green;
+    font-size: 2rem;
+}
+
+.no_aplicado{
+    color: red;
+    font-size: 2rem;
+}
